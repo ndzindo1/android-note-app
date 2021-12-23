@@ -1,14 +1,6 @@
-# android-note-app
-Simple note app.
+#Simple note app
+
 MVVM + Room + Livedata + Coroutine
-
-![1](../master/screenshots/1.png)
-
-![2](../master/screenshots/2.png)
-
-![3](../master/screenshots/3.png)
-
-![4](../master/screenshots/4.png)
 
 Features: 
 
@@ -18,3 +10,12 @@ Edit note
 Delete note on swipe
 Delete all notes
 ```
+
+<img src="../master/screenshots/1.png" width="300" height="500">
+
+<img src="../master/screenshots/2.png" width="300" height="500">
+
+<img src="../master/screenshots/3.png" width="300" height="500">
+
+<img src="../master/screenshots/4.png" width="300" height="500">
+
